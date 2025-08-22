@@ -1,0 +1,11 @@
+player,team,games,minutes,points,assists,rebounds,ts_pct,usg_pct,win_shares
+Shai Gilgeous-Alexander,OKC,75,35.5,30.1,6.2,5.5,0.64,0.31,12.5
+Nikola Jokic,DEN,79,34.6,26.8,8.9,12.3,0.66,0.29,14.0
+Luka Doncic,DAL,70,36.8,33.2,9.8,8.6,0.62,0.35,11.3
+Jayson Tatum,BOS,74,36.0,27.1,4.8,8.5,0.6,0.3,10.2
+Giannis Antetokounmpo,MIL,73,34.2,30.8,6.4,11.5,0.64,0.33,12.0
+Stephen Curry,GSW,74,34.0,26.4,5.1,4.5,0.63,0.31,9.4
+Jalen Brunson,NYK,77,35.0,28.7,6.7,3.8,0.6,0.3,10.8
+Anthony Edwards,MIN,78,36.2,26.3,5.0,5.5,0.58,0.3,8.9
+Jamal Murray,DEN,65,32.0,21.4,6.5,4.1,0.58,0.27,6.7
+Jrue Holiday,BOS,72,33.5,18.4,6.1,5.2,0.61,0.22,7.8
